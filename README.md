@@ -6,7 +6,7 @@ Please change `path = ...` with the path where you want your files to be downloa
 To use another audio format, please modify `.wav` by the format you'd like to use.
 
 ## Launch the program
-Launch the program with python by typing "python ytb.py" in the program directory from the Terminal command line.
+Launch the program with python by typing `python ytb.py` in the program directory from the Terminal command line.
 
 I personnaly use a shortcut with the short keyword "ytb" that launches the code from the right directory.
 
