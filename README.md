@@ -1,2 +1,2 @@
-# ytb-dl
+# ytb
 Download YouTube videos to audio files
