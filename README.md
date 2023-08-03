@@ -1,7 +1,7 @@
 # ytb
 
 ## Edit the program
-Please change `path = ...` with the path you want files to be downloaded.
+Please change `path = ...` with the path where you want your files to be downloaded.
 
 To use another audio format, please modify `.wav` by the format you'd like to use.
 
