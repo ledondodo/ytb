@@ -1,9 +1,9 @@
 # ytb
 
 ## Edit the program
-Please change "path = ..." with the path you want files to be downloaded.
+Please change `path = ...` with the path you want files to be downloaded.
 
-To use another audio format, please modify ".wav" by the format you'd like to use.
+To use another audio format, please modify `.wav` by the format you'd like to use.
 
 ## Launch the program
 Launch the program with python by typing "python ytb.py" in the program directory from the Terminal command line.
