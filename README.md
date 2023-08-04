@@ -17,6 +17,11 @@ As you launch the program, you'll see the following interface in the Terminal co
   <img src="img/download.png" width=70% height=70%>
 </p>
 
+## Use Terminal alias (mac)
+Open or create the shell configuration file by typing ´open ~/.zprofile´ in the user’s home directory.
+
+Add the line: ´alias ytb='python /pathtofile/ytb/ytb.py'´
+
 ## Libraries
 This program uses pytube package.
 
